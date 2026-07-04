@@ -1,7 +1,7 @@
 {
 	"name": "Eruru",
 	"id": "com.eruru.tools",
-	"url": "https://Eruru3510.github.io/Eruru.VRChat.Tools/index.json",
+	"url": "https://Eruru3510.github.io/Eruru.VRChat.PackageListing/index.json",
 	"author": {
 		"email": "",
 		"name": "Eruru",
@@ -9,10 +9,12 @@
 	},
 	"description": "listing of VRChat packages",
 	"infoLink": {
-		"url": "https://github.com/Eruru3510/Eruru.VRChat.Tools",
+		"url": "https://github.com/Eruru3510/Eruru.VRChat.PackageListing",
 		"text": "View on GitHub"
 	},
 	"bannerUrl": "banner.png",
-	"githubRepos": [],
+	"githubRepos": [
+		"Eruru3510/Eruru.VRChat.AnimationReferenceSearcher"
+	],
 	"packages": []
 }
