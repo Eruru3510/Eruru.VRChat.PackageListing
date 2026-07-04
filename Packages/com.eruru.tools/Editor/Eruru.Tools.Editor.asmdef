@@ -1,0 +1,6 @@
+{
+	"name": "Eruru.Tools.Editor",
+	"includePlatforms": [
+		"Editor"
+	]
+}
