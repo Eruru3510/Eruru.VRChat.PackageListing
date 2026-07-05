@@ -14,7 +14,8 @@
 	},
 	"bannerUrl": "banner.png",
 	"githubRepos": [
-		"Eruru3510/Eruru.VRChat.AnimationReferenceSearcher"
+		"Eruru3510/Eruru.VRChat.AnimationReferenceSearcher",
+		"Eruru3510/Eruru.VRChat.BlendshapeAutoSync"
 	],
 	"packages": []
 }
